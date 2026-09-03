@@ -1,0 +1,6 @@
+{
+  "name": "Coffee Tracker",
+  "description": "Local and offline coffee order call recorder, spreadsheet expense tracker, and monthly billing cycle PDF statement generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
